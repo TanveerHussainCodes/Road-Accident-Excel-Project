@@ -94,6 +94,10 @@ Vertical Navigation Bar with Hyperlinks to:
 Dashboard
 
 Data Analysis Sheet
+## Note to acccess excel file
+File will not open as it is larger than 25MB. so click on 'raw file' or click on google drive link below to download excel file
+**[click here to preview or download excel file from google drive](https://docs.google.com/spreadsheets/d/1opx8QSnkGZW8axA9KPwrAfDNLXy-_cBs/edit?usp=sharing&ouid=116936318987558388403&rtpof=true&sd=true)**
+, 
 
 
 
