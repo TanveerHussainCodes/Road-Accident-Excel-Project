@@ -97,7 +97,8 @@ Data Analysis Sheet
 
 ## Note to acccess excel file
 File will not open as it is larger than 25MB. so click on 'raw file' or click on google drive link below to download excel file
-[click here to download excel file](https://github.com/TanveerHussainCodes/Road-Accident-Excel-Project/blob/main/Road%20Accident%20Data%20Analysis.xlsx)
+[click here to download excel file](https://github.com/TanveerHussainCodes/Road-Accident-Excel-Project/raw/main/Road%20Accident%20Data%20Analysis.xlsx)
+
 # file preview
 ![click here to preview dashboard as PNG image](dashboard.PNG)
 ![click here to preview data analysis sheet as PNG image](data_analysis.PNG)
