@@ -100,8 +100,8 @@ File will not open as it is larger than 25MB. so click on 'raw file' or click on
 [click here to download excel file](https://github.com/TanveerHussainCodes/Road-Accident-Excel-Project/raw/main/Road%20Accident%20Data%20Analysis.xlsx)
 
 # File preview
-![click here to preview dashboard as PNG image](dashboard.PNG)
-![click here to preview data analysis sheet as PNG image](data_analysis.PNG)
+![dashboard as PNG image](dashboard.PNG)
+![data analysis sheet as PNG image](data_analysis.PNG)
 , 
 
 
